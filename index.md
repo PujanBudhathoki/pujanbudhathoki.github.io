@@ -9,6 +9,7 @@ pujan.budhathoki2@uta.edu | **[LinkedIn](https://www.linkedin.com/in/pujan-budha
 
 I am a PhD student at the University of Texas at Arlington. I specialize on the field of Privacy and Fairness Testing in Machine learning Systems. I have completed my undergraduate Engineering degree in Electronics and Communication Engineering from the Pulchowk Campus, IOE.
 
+**[Privacy Testing in Machine learning](https://nine-monday-454.notion.site/Privacy-Testing-in-Machine-Learning-143bbf0f6a98805ab4f0c7e2bbf86ec2?pvs=4)**
 ---
 
 
