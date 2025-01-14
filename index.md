@@ -1,4 +1,4 @@
-![Pujan Budhathoki](pujanphotolatest.jpg)
+<img src="pujanphotolatest.jpg" alt="Pujan Budhathoki" width="300">
 
 
 pujan.budhathoki2@uta.edu | **[LinkedIn](https://www.linkedin.com/in/pujan-budhathoki-54a957144/)** | **[Github](https://github.com/PujanBudhathoki)** 
