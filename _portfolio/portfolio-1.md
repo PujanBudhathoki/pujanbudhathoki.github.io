@@ -1,11 +1,11 @@
 ---
 title: "Testing Memorization in Machine Learning"
-excerpt: "Machine learning systems are inherently vulnerable to privacy attacks, which can extract various aspects of the model, including its training data, model parameters, and sensitive attributes related to the training data. Moreover, model explanations can inadvertently disclose additional information that further aids such attacks. The goal is to assess the extent to which we can recover information from the model by leveraging this additional information
+excerpt: "One of the long known trait of Deep Learning has been Memorization. It is the condition when the model, instead of picking up the general patterns, begins to memorize each example it cannot correctly classify. It can cause lots of problems to the model like, Privacy vulnerability, hampering the model performance. Detecting if the model has been memorizing certain training instances can help in improving the model performance and reduce it’s vulnerability to privacy attacks.
 
 "
 # collection: portfolio
 ---
-Machine learning systems are inherently vulnerable to privacy attacks, which can extract various aspects of the model, including its training data, model parameters, and sensitive attributes related to the training data. Moreover, model explanations can inadvertently disclose additional information that further aids such attacks. The goal is to assess the extent to which we can recover information from the model by leveraging this additional information[More Information](https://nine-monday-454.notion.site/Privacy-Attacks-Leveraging-Model-Explanations-143bbf0f6a98805ab4f0c7e2bbf86ec2?source=copy_link) 
+One of the long known trait of Deep Learning has been Memorization. It is the condition when the model, instead of picking up the general patterns, begins to memorize each example it cannot correctly classify. It can cause lots of problems to the model like, Privacy vulnerability, hampering the model performance. Detecting if the model has been memorizing certain training instances can help in improving the model performance and reduce it’s vulnerability to privacy attacks.[More Information](https://nine-monday-454.notion.site/Privacy-Attacks-Leveraging-Model-Explanations-143bbf0f6a98805ab4f0c7e2bbf86ec2?source=copy_link) 
 
 
 
