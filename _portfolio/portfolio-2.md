@@ -1,6 +1,6 @@
 ---
 title: "PhD Milestones"
-excerpt: "Next Planned Milestone: Comprehensive Exam for Spring 2026"
+excerpt: "Next Planned Milestone: Proposal for Fall 2027"
 # collection: portfolio
 ---
 
